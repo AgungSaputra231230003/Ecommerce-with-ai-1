@@ -1,6 +1,7 @@
 # NovaCart
 
 Dibuat oleh: Agung Saputra
+
 aplikasi ini hanya untuk sekedar menyelesaikan tugas kuliah saja, karena belum di kembangkan sedemikian rupa!
 
 NovaCart adalah aplikasi e-commerce berbasis Laravel yang dirancang untuk menjual produk lifestyle dengan gaya modern, cocok untuk brand Gen-Z seperti streetwear, skincare, tech, dan accessories.
